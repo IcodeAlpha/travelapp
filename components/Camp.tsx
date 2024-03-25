@@ -55,15 +55,15 @@ const Camp = () => {
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite
           backgroundImage="bg-bg-img-1"
-          title="Putuk Truno Camp"
-          subtitle="Prigen, Pasuruan"
-          peopleJoined="50+ Joined"
+          title="Kakamega Forest Campsite"
+          subtitle="Kakamega"
+          peopleJoined="5+ Joined"
         />
         <CampSite 
           backgroundImage="bg-bg-img-2"
-          title="Mountain View Camp"
-          subtitle="Somewhere in the Wilderness"
-          peopleJoined="50+ Joined"
+          title="Lake Naivasha"
+          subtitle="Naivasha"
+          peopleJoined="10+ Joined"
         />
       </div>
 
@@ -73,7 +73,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
             </h2>
             <p className="regular-14 xl:regular-16 mt-5 text-white">
-              Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+              When travelling to a new place the possibility of getting lost is very large. We're here to ease your worries and make adventure accessible. Our platform caters to novice explorers, offering guidance and support as you embark on thrilling journeys. Let's navigate the wilderness together, ensuring every step is a confident stride into the unknown.
             </p>
             <Image
               src="/quote.svg"

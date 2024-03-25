@@ -15,9 +15,9 @@ const Hero = () => {
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">Kam Twende Camp Area</h1>
+        <h1 className="bold-52 lg:bold-88 text-green-700">Kam Twende Trip</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-        We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app
+        We want to inspire exploration and create unforgettable travel experience and be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app. We aim to foster a deep appreciation for diverse cultures, promote sustainable tourism practices, and cultivate meaningful connections between travelers and the destinations they visit, enriching lives through immersive adventures and shared discoveries.
         </p>
         <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">
@@ -32,8 +32,8 @@ const Hero = () => {
             ))} 
           </div>
 
-          <p>
-            198k
+          <p className="bold-20 ">
+            198
             <span className="regular-16 lg:regular-20 ml-1">Excellent Reviews</span>
           </p>
         </div>
@@ -46,7 +46,7 @@ const Hero = () => {
           />
           <Button 
           type="button" 
-          title="How we work?" 
+          title="This is Us" 
           icon="/play.svg"
           variant="btn_white_text" 
           />
@@ -60,16 +60,16 @@ const Hero = () => {
                 <p className="regular-16 text-gray-20">Location</p>
                 <Image src="/close.svg" alt="close" width={24} height={24} />
               </div>
-              <p className="bold-20 text-white">Aguas Calientes</p>
+              <p className="bold-20 text-white">Castle Forest Lodge</p>
             </div>  
             <div className="flexBetween">
                 <div className="flex flex-col">
-                  <p className="regular-16 block text-gray-20">Distance</p>
-                  <p className="bold-20 text-white">173.28 mi</p>
+                  <p className="regular-16 block text-gray-20">Distance from Nairobi</p>
+                  <p className="bold-20 text-white">139 km</p>
                 </div>
                 <div className="flex flex-col">
                   <p className="regular-16 block text-gray-20">Elevation</p>
-                  <p className="bold-20 text-white">2.040 km</p>
+                  <p className="bold-20 text-white">4.050 km</p>
                 </div>
               </div>
             </div>

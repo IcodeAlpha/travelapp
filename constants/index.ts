@@ -19,7 +19,7 @@ export const NAV_LINKS = [
   export const FEATURES = [
     {
       title: 'Real maps can be offline',
-      icon: '/map.svg',
+      icon: '/tech.svg',
       variant: 'green',
       description:
         'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
@@ -62,15 +62,15 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing', 'Hiking', 'Camping'],
     },
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '0769009184' },
+      { label: 'Email Officer', value: 'alphamunene5@gmail.com' },
     ],
   };
   
@@ -84,3 +84,4 @@ export const NAV_LINKS = [
       '/wordpress.svg',
     ],
   };
+  
