@@ -70,7 +70,7 @@ const Camp = () => {
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
         <div className="bg-green-50 p-8 lg:max-w-[500px] xl:max-w-[734px] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl">
           <h2 className="regular-24 md:regular-32 2xl:regular-64 capitalize text-white">
-            <strong>Feeling Lost</strong> And Not Knowing The Way?
+            <strong>Feeling Lost</strong> We will find you
             </h2>
             <p className="regular-14 xl:regular-16 mt-5 text-white">
               When travelling to a new place the possibility of getting lost is very large. We're here to ease your worries and make adventure accessible. Our platform caters to novice explorers, offering guidance and support as you embark on thrilling journeys. Let's navigate the wilderness together, ensuring every step is a confident stride into the unknown.

@@ -17,7 +17,7 @@ const Hero = () => {
         />
         <h1 className="bold-52 lg:bold-88 text-green-700">Kam Twende Trip</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-        We want to inspire exploration and create unforgettable travel experience and be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app. We aim to foster a deep appreciation for diverse cultures, promote sustainable tourism practices, and cultivate meaningful connections between travelers and the destinations they visit, enriching lives through immersive adventures and shared discoveries.
+        we want to help with deciding where to visit and help in the actual planning to make your escapades fun. We want to inspire exploration and create unforgettable travel experience and be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app. We aim to foster a deep appreciation for diverse cultures, promote sustainable tourism practices, and cultivate meaningful connections between travelers and the destinations they visit, enriching lives through immersive adventures and shared discoveries.
         </p>
         <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">
